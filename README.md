@@ -15,7 +15,8 @@ I'm a passionate and detail-oriented **Frontend Developer** with a solid foundat
 
   
 💡 Developed & deployed frontend applications using **Javascript**, **React**, **Node.js** 
-📱 Built multiple mobile apps using **React Native**, with dynamic UIs and offline capabilities  
+
+  📱 Built multiple mobile apps using **React Native**, with dynamic UIs and offline capabilities
 🎯 Now seeking frontend/full-stack opportunities to contribute to impactful projects  
 
 ---
