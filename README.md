@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Anjlee Duseja! 👋 </h1>
 
 <p align="center">
-  <em>Frontend Developer | React Native Enthusiast | Former IT Instructor</em><br>
+  <em>Frontend Developer</em><br>
   <a href="https://www.linkedin.com/in/anjlee-duseja"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:Anjleeduseja13@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://github.com/AnjleeDuseja"><img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github" alt="GitHub"/></a>
@@ -45,30 +45,6 @@ I'm a passionate and detail-oriented **Frontend Developer** with a solid foundat
 
 
 ---
-
-### 🚀 Projects
-
-- 📚 **[React Native Learning App](https://github.com/AnjleeDuseja/ReactNativeApp)**  
-  Modular mobile app for e-learning with scrollable instructor/course cards using Flexbox.
-
-- 📖 **[MyReads App](https://github.com/Anjlee2022skipq/myreads-app)**  
-  Bookshelf app using React.js + Google Books API. Responsive UI with Bootstrap and Node.js backend.
-
-- 👥 **[Customer Management CRM](https://github.com/Anjlee2022skipq/crm-app)**  
-  Offline-first mobile app with Redux-Saga and AsyncStorage for sales teams.
-
-- 🗳️ **[Employee Polling System](https://github.com/Anjlee2022skipq/employee-polls-app)**  
-  Polling web app using Redux, Bootstrap and Jest for testing, deployed with authentication.
-
----
-
-### 📜 Certification
-
-🎓 [React Nanodegree - Udacity](https://www.udacity.com/certificate/GR93XZTH)  
-Covers advanced React, Redux, component patterns, testing and project development.
-
----
-
 
 
 ### 💬 Let's Connect
