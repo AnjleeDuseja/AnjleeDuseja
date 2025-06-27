@@ -20,8 +20,9 @@ I'm a passionate and detail-oriented **Frontend Developer** with a solid foundat
 
   🎯 Now seeking frontend/full-stack opportunities to contribute to impactful projects
   
-### Portfolio 
-![Visit here](https://anjlee.vercel.app)
+
+Visit my [portfolio](https://anjlee.vercel.app) to see my work.
+
 
 
 ---
